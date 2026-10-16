@@ -7,4 +7,7 @@ Create a variable `x`, set `x ← 5`, change `x` by `3`, and display the result 
 
 **Evidence**:
 - Export or screenshot your Scratch project and place it under `scratch/`.
-- Add a short note in `journal/06_scratch.md`: *How does Scratch’s model relate to the same computation?*
+- Add a short note in `journal/06_scratch.md`: *How does Scratch’s model relate to the same computation?*#
+
+<img width="1869" height="930" alt="Screenshot 2026-10-16 172216" src="https://github.com/user-attachments/assets/e54d2d27-5975-481b-b118-9e01e6d3ca60" />
+
