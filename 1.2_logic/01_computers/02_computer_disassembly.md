@@ -1,7 +1,7 @@
 # Part 2 – Computer Disassembly
 ## Before Opening the Computer
 Describe the computer before opening it.
-Insert image:
+Insert image: 
 ```
 images/system/computer-before.jpg
 ```
